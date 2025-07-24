@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 📫 How to reach me **nikhilkumarr.nk@gmail.com**
+- 📫 How to reach me **nikhilkumaarrr30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
