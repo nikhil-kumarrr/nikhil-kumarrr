@@ -1,11 +1,7 @@
 <h1 align="center">Hi , I'm Nikhil Kumar</h1>
 <h3 align="center">AI/ML Enthusiast | Future AI Engineer | Passionate About Building Smarter Technologies</h3>
 
-<img align="right" alt="coding" length="200" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-<p align="down">
-  <img src="https://github.com/nikhil-kumarrr/nikhil-kumarrr/blob/main/d6ad7ac9-e4ff-4c03-9101-ff8cd3f19497.png" width="400"/>
-</p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ## 👨‍💻 About Me
 
