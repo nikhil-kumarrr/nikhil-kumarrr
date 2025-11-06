@@ -25,6 +25,7 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X0jFmoPrDmg3um32N32i7YzuHi2Vmwv3ow&s" alt="jupyter notebook" width="70" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/904/5099904-middle.png" alt="vs code" width="60" height="40"/> </a> 
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="vs code" width="50" height="80"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Connect with me :</h3>
