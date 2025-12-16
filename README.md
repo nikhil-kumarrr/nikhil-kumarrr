@@ -7,6 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-kumarrr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-kumarrr" /> </p>
 
+## My Github Stats
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=campusx-official)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=campusx-official)
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official)
+
 - I’m currently learning **AI/ML**
 
 <h3 align="left">Languages and Tools :</h3>
