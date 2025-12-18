@@ -35,5 +35,6 @@
 </p>
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil-kumarrr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-kumarrr&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil-kumarrr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff)
