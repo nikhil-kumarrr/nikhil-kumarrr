@@ -34,7 +34,3 @@
 <a href="https://www.instagram.com/http_.peace/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/http_.peace/" height="30" width="40" /></a>
 </p>
 
-## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-kumarrr&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil-kumarrr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff)
