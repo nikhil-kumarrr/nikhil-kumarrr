@@ -1,4 +1,4 @@
- <img align = "center" alt = "coding" src = "https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<img align = "center" alt = "coding" src = "https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <h1 align="center">Hi I'm Nikhil Kumar</h1>
 <h3 align="center">AI/ML Enthusiast | Future AI Engineer | Passionate About Building Smarter Technologies</h3>
