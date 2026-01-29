@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-kumarrr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-kumarrr" /> </p>
 
-- I’m currently learning **AI/ML** 
+- I’m currently learning **Learning LLMs, LangChain & Generative AI 🚀** 
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
