@@ -34,6 +34,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-kumarrr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-kumarrr/" height="30" width="40" /></a>
+ 
+<a href="https://www.hackerrank.com/profile/nikhilkumaarrr30" target="blank"><img align="center" src="https://images.icon-icons.com/2389/PNG/512/hackerrank_logo_icon_145206.png" alt="https://www.hackerrank.com/profile/nikhilkumaarrr30" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/hey___nikhilll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/http_.peace/" height="30" width="40" /></a>
 </p>
  
